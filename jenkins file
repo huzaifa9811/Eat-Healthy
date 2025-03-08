@@ -43,7 +43,7 @@ pipeline {
     }
     
     post {
-        always {
+         always {
             // Actions to perform at the end of the pipeline
             // For example, cleaning up workspace, sending notifications, etc.
             cleanWs()
