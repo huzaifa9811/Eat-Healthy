@@ -12,7 +12,7 @@
         color: #333;
         text-align: center;
         padding: 50px;
-    }
+    } 
 
     h1 {
         font-size: 3em;
