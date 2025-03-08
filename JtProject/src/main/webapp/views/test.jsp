@@ -4,7 +4,7 @@
 <%@page import ="java.io.FileOutputStream" %>    
 <%@page import=" java.io.ObjectOutputStream" %>    
 
-<!DOCTYPE html>
+<!DOCTYPE html> 
 
 <html>
  <body>
