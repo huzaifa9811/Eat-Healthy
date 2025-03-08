@@ -1,5 +1,5 @@
 package com.jtspringproject.JtSpringProject.models;
-
+ 
 import javax.persistence.CascadeType;
 import javax.persistence.Column;
 import javax.persistence.Entity;
